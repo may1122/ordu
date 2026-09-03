@@ -39,7 +39,7 @@ GROUPS: dict[str, list[str]] = {
     "A1": [
 
         "Üniversite Eczanesi",
-        "Yeni Sanayi Eczanesi",
+        "Aksu Eczanesi",
         "Cumhuriyet Eczanesi",
         "Çakır Eczanesi",
         "Köroğlu Eczanesi",
@@ -106,7 +106,7 @@ GROUPS: dict[str, list[str]] = {
     ],
 
     "B3": [
-        "Aksu Eczanesi",
+        "Yeni Sanayi Eczanesi",
         "Güven Eczanesi",
         "Konak Eczanesi",
         "Pınar Eczanesi",
