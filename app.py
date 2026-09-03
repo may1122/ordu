@@ -81,7 +81,7 @@ GROUPS: dict[str, list[str]] = {
         "Serdaroğlu Eczanesi",
     ],
 
-    "B3": [
+    "C3": [
         "İnci Eczanesi",
         "Mert Gerçeker Eczanesi",
         "Bahçelievler Eczanesi",
@@ -96,7 +96,7 @@ GROUPS: dict[str, list[str]] = {
 
     ],
 
-    "B2": [
+    "C2": [
         "Buğra Eczanesi",
         "Dilara Eczanesi",
         "Arda Eczanesi",
@@ -111,7 +111,7 @@ GROUPS: dict[str, list[str]] = {
         "Güzelbilen Eczanesi",
     ],
 
-    "B1": [
+    "C1": [
         "Yeni Sanayi Eczanesi",
         "Güven Eczanesi",
         "Konak Eczanesi",
@@ -127,7 +127,7 @@ GROUPS: dict[str, list[str]] = {
         
     ],
 
-    "C1": [
+    "B1": [
         "Ayşe Eczanesi",
         "Çelenk Eczanesi",
         "Demirtaş Eczanesi",
@@ -142,7 +142,7 @@ GROUPS: dict[str, list[str]] = {
         "Yenimahalle Eczanesi",
     ],
 
-    "C2": [
+    "B2": [
         "Arslan Eczanesi",
         "Aylin Eczanesi",
         "Demir Eczanesi",
@@ -157,7 +157,7 @@ GROUPS: dict[str, list[str]] = {
         "Yılmaz Eczanesi",
     ],
 
-    "C3": [
+    "B3": [
         "Ahsen Eczanesi",
         "Altaş Eczanesi",
         "Altınordu Eczanesi",
