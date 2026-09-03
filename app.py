@@ -41,7 +41,6 @@ GROUPS: dict[str, list[str]] = {
         "Lale Begüm Eczanesi",
         "Serdaroğlu Eczanesi",
         "Şeyma Eczanesi",
-        "Zeynep Eczanesi",
         "Filiz Eczanesi",
         "Tayfun Eczanesi",
         "Türkmen Eczanesi",
@@ -117,6 +116,7 @@ GROUPS: dict[str, list[str]] = {
         "Konak Eczanesi",
         "Pınar Eczanesi",
         "Öykü Eczanesi",
+        "Zeynep Eczanesi",
         
     ],
 
