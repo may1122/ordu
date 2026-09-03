@@ -37,9 +37,9 @@ ECZANE_FILE_NAME = "Altinordu_Eczaneleri_A_B_C_Gruplari.xlsx"
 
 GROUPS: dict[str, list[str]] = {
     "A3": [
-        "Fatih Eczanesi",
-        "Lale Begüm Eczanesi",
-        "Serdaroğlu Eczanesi",
+        "Efe Eczanesi",
+        "Koçyiğit Eczanesi",
+        "Yürür Eczanesi",
         "Şeyma Eczanesi",
         "Filiz Eczanesi",
         "Tayfun Eczanesi",
@@ -67,18 +67,18 @@ GROUPS: dict[str, list[str]] = {
     ],
 
     "A1": [
+        "Sağlık Eczanesi",
+        "Yeşilova Eczanesi",
         "Begüm Eczanesi",
         "Berrin Eczanesi",
-        "Efe Eczanesi",
         "Kayahan Eczanesi",
-        "Koçyiğit Eczanesi",
         "Odabaş Eczanesi",
         "Ömür Eczanesi",
-        "Sağlık Eczanesi",
         "Selin Eczanesi",
         "Tülin Eczanesi",
-        "Yeşilova Eczanesi",
-        "Yürür Eczanesi",
+        "Fatih Eczanesi",
+        "Lale Begüm Eczanesi",
+        "Serdaroğlu Eczanesi",
     ],
 
     "B1": [
